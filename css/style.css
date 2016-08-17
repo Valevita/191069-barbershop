@@ -119,6 +119,9 @@ h2 {
 }
 
 .page-number {
+  box-sizing: border-box;
+  padding-top: 10px;
+  padding-bottom: 10px;
   font-size: 14px;
   display: inline-block;
   width: 43px;
